@@ -1,4 +1,7 @@
 ### Development
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f0c7ef4efac4deeb064084bae3f5c97)](https://app.codacy.com/app/7sete7/Ws?utm_source=github.com&utm_medium=referral&utm_content=7sete7/Ws&utm_campaign=Badge_Grade_Dashboard)
+
  - Create a .env file with the PORT
  - `npm run dev`
 
